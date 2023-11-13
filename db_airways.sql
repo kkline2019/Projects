@@ -1,3 +1,8 @@
+/*
+A database used to store flight information for an airport, this includes flights arriving and departing,
+and the passengers on the flights, employees.
+*/
+
 drop database if exists db_airways;
 create database if not exists db_airways;
 
