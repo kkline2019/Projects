@@ -1,3 +1,6 @@
+/*
+A database created to store data on a university. This includes the departments, classrooms, instructors, teachers, and courses.
+*/
 create database if not exists university;
 
 use university;
